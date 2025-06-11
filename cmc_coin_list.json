@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "slug": "bitcoin"
+  },
+  {
+    "id": 32211,
+    "name": "WELL3",
+    "symbol": "$WELL",
+    "slug": "well3"
+  }
+]
