@@ -8,8 +8,6 @@ Follow these steps to set up and run your WELLAIOS Crypto Chart server:
 
 1. **Get a CoinMarketCap API Key**
 
-   Some details and maybe some links?
-
    To use this tool, you'll need an API key from CoinMarketCap. This key authenticates your requests to their data service.
 
    1. **Visit CoinMarketCap API**:
